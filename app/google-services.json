@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925704682350",
+    "firebase_url": "https://vehicle-tracking-system-66e9f.firebaseio.com",
+    "project_id": "vehicle-tracking-system-66e9f",
+    "storage_bucket": "vehicle-tracking-system-66e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925704682350:android:0b3ce96405bd645bc11f7f",
+        "android_client_info": {
+          "package_name": "com.ravin.vehicletrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925704682350-1klvs3o58sigcapsijr0c5vto6h1fgqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravin.vehicletrackingsystem",
+            "certificate_hash": "0d51f0b9ad81bef05eebbdfc7a5c055e73349843"
+          }
+        },
+        {
+          "client_id": "925704682350-4dn45m9jel8h50g3k3jobq7fm58ihc31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCXtmtVT9vKB8FmooRelwRq-fUQ4k0X-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925704682350-4dn45m9jel8h50g3k3jobq7fm58ihc31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
